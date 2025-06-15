@@ -41,12 +41,7 @@ The system is implemented using **SQL Server** for the backend and features a wo
    - Sample data insertion
    - CRUD procedures
 
-> Make sure all constraints (primary keys, foreign keys) are enabled during execution.
 
----
-
-### 🔍 Running Sample Queries
-You can test the database using sample queries such as:
 
 
 
